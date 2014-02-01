@@ -1,8 +1,5 @@
-/*	Luis Luna
-	Comp182 MW 9:30am-12:15pm
-	Project #3
-	September 13, 2010
-	*/
+/*	Author: Luis Luna
+*/
 	
 import java.util.*;
 
